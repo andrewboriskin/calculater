@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Считаем проценты</string>
+    <string name="all100">100% это:  </string>
+    <string name="B">Введи В:  </string>
+    <string name="C">Введи С:  </string>
+    <string name="H">Введи Н:  </string>
+    <string name="clear100">Очистить</string>
+    <string name="clearBCH">Очистить всё</string>
+    <string name="Calculate">Рассчитать</string>
+</resources>
